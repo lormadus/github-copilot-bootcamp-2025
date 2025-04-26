@@ -73,7 +73,7 @@ source .venv/bin/activate
 ```
 
 ```bash
-uvicorn python.main:app --reload
+uvicorn main:app --reload
 ```
 
 ### API 확인
